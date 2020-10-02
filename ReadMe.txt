@@ -20,4 +20,6 @@ would be nice to raise a flag or pop up notifcation if you get a sub.
 
 in versions said stuff above is the direction.
 
+Fun first opencv project.
+
 will print how many times it cylced and subs grabbed at end
