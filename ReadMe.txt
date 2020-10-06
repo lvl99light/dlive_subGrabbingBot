@@ -23,3 +23,6 @@ in versions said stuff above is the direction.
 Fun first opencv project.
 
 will print how many times it cylced and subs grabbed at end
+
+
+Note it clicks in the wrong spot. the position is pixils on the screen, not pixils starting at the selected window position. 
